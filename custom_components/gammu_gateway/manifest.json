@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "config_flow": true,
   "documentation": "https://github.com/array81/gammu-gateway",
-  "requirements": [],
   "dependencies": [],
-  "codeowners": [@array81],
+  "codeowners": ["@array81"],
   "iot_class": "local_polling"
 }
