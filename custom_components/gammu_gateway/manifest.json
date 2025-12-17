@@ -1,0 +1,11 @@
+{
+  "domain": "gammu_gateway",
+  "name": "SMS Gammu Gateway",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/pajikos/sms-gammu-gateway",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "local_polling"
+}

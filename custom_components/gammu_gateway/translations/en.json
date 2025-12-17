@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect SMS Gammu Gateway",
+        "data": {
+          "host": "IP Address",
+          "port": "Port",
+          "username": "Username",
+          "password": "Password",
+          "scan_interval_signal": "Signal Scan Interval (seconds)",
+          "scan_interval_sms": "SMS Check Interval (min 10s)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Unable to connect. Check IP, Port and credentials."
+    }
+  },
+  "entity": {
+    "button": {
+      "reset_modem": {
+        "name": "Reset Modem"
+      }
+    }
+  }
+}
